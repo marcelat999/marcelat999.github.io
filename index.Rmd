@@ -1,5 +1,5 @@
 ---
-title: "Frank Hermosillo"
+title: "Marcela Todd Zaragoza"
 image: "fieldpic.jpeg"
 links:
   - label: LinkedIn
@@ -16,12 +16,7 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Here enter your bio blah blah bio
 
 ## Education
 
